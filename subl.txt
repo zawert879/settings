@@ -1,0 +1,28 @@
+[
+		"1337 Color Scheme",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"LiveReload",
+		"Package Control",
+		"Theme - Brogrammer",
+		"Web Inspector"
+	]
+
+//user
+	{
+  "theme": "Brogrammer.sublime-theme",
+  "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
+}
+
+//livereload
+{
+    "enabled_plugins": [
+        "SimpleReloadPlugin",
+        "SimpleRefresh"
+    ]
+}
